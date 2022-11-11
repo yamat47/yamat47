@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yamat47" target="blank"><img src="https://img.shields.io/twitter/follow/yamat47?logo=twitter&style=for-the-badge" alt="yamat47" /></a> </p>
 
-- 🔭 I’m currently working on **Crassone co., ltd.**
+- 🔭 I’m currently working on **ONE CAREER Inc.**
 
 - 📝 I regularly write articles on [https://blog.yamat47.me](https://blog.yamat47.me)
 
